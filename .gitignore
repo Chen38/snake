@@ -1,0 +1,7 @@
+# compiled
+
+bin-debug/
+
+# build
+
+dist/
