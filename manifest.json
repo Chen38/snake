@@ -1,15 +1,11 @@
 {
 	"initial": [
-		"libs/modules/egret/egret.js",
-		"libs/modules/egret/egret.web.js",
-		"libs/modules/game/game.js",
-		"libs/modules/tween/tween.js"
+		"libs/modules/egret/egret.min.js",
+		"libs/modules/egret/egret.web.min.js",
+		"libs/modules/game/game.min.js",
+		"libs/modules/tween/tween.min.js"
 	],
 	"game": [
-		"bin-debug/Bug.js",
-		"bin-debug/Main.js",
-		"bin-debug/Popup.js",
-		"bin-debug/Sanke.js",
-		"bin-debug/snake.body.js"
+		"main.min.js"
 	]
 }
